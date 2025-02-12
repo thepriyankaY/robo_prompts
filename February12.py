@@ -1,3 +1,5 @@
+#I learned about how variables require placeholders before insirting your information
+#I also learned how [print ()] allows for a block of space inbetween text
 print()
 print("Getting to know you!")
 print()
